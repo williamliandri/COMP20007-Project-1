@@ -1,0 +1,4 @@
+1. Download sample.tar.gz to your computer (better in an empty folder), then execute "tar -zxvf sample.tar.gz". If you downloaded the folder, just ignore this step.
+2. Place test.sh in the folder which have all your codes with Makefile and vicroads.txt
+3. Use the terminal, change to the directory with the script, then "./test.sh <path to sample>"
+Note: If it says permission deny, execute "chmod u+x test.sh", then try step 3 again.
